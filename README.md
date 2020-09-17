@@ -31,7 +31,8 @@ MICHELLE:
             >>  Consiste en una App que ayuda a una compañia farmaceutica a tranfosrmar los elementos quimicos visuales a su respectivo nombre de manera textual. .La empresa tiene, IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps),etc.
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Se necesitaba un desarrollo tecnológico que hiciera facil a todos identificar un elemento quimico y su nombre ,de manera que todos puedan determinar que elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera facíl. 
-            DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies
+            
+            < DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies >
 
 
 MARIANA:  
