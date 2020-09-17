@@ -48,11 +48,13 @@ MARIANA:
  
 ARTURO:    
     a) ¿Qué empresa es? ¿En qué sector se encuentra?   
-            >>   
+            >>   La empresa se llama Deere & Company pero se conoce coercialmente como Jhon deere. Esta empresa se encuentra en el sector agrícola.   
+            >>   Mayoritariamente se dedican a hacer tratctores y equipo que faciliten el trabajo del campo desde la plantación hasta la extracción del fruto.
+            
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
-            >>  
+            >>  La empresa de Deere & Company hizo una aplicación para ipad y con esta aplicación se puede ver desde cuanto campo se ha plantado, de que semilla se plantó, cuantas semillas le quedan al tractor, cuantas semillas se plantaron por hectarea y cuanto terreno le falta para acabar. 
     c) ¿Qué problemática o necesidad resuelve?    
-            >>  
+            >>  Esta app ayuda a que el granjero sepa en timpo real que es lo ue esta pasando tanto como en su terreno como en sus máquinas en tiempo real y de esta manera poder anticipar los problemas comunes tales como que la máquina se queda sin gasolina, sin semillas etc....
  
  
 RODRIGO:   
