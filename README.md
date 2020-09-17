@@ -32,9 +32,6 @@ MICHELLE:
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Se necesitaba un desarrollo tecnológico que hiciera facil a todos identificar un elemento quimico y su nombre ,de manera que todos puedan determinar que elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera facíl. 
             
-            < DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies >
-
-
 MARIANA:  
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
             >>  La empresa se llama GSMA. Es una empresa en el sector de telecomunicaciones, pero para este proyecto está orientada a atender una de las grandes problemáticas originadas por el calentamiento global: la contaminación del aire. Gracias a esta colaboración de áreas separadas, se puede decir que el sector de este proyecto específico es desarrollo sustentable, pues mediante la ciencia y la tecnología se ciuda que las comodidades de las que gozamos actualmente sean lo menos dañinas para el medio ambiente. 
@@ -48,22 +45,22 @@ MARIANA:
  
 ARTURO:    
     a) ¿Qué empresa es? ¿En qué sector se encuentra?   
-            >>   La empresa se llama Deere & Company pero se conoce coercialmente como Jhon deere. Esta empresa se encuentra en el sector agrícola.   
-            >>   Mayoritariamente se dedican a hacer tratctores y equipo que faciliten el trabajo del campo desde la plantación hasta la extracción del fruto.
-            
+            >>   
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
-            >>  La empresa de Deere & Company hizo una aplicación para ipad y con esta aplicación se puede ver desde cuanto campo se ha plantado, de que semilla se plantó, cuantas semillas le quedan al tractor, cuantas semillas se plantaron por hectarea y cuanto terreno le falta para acabar. 
+            >>  
     c) ¿Qué problemática o necesidad resuelve?    
-            >>  Esta app ayuda a que el granjero sepa en timpo real que es lo ue esta pasando tanto como en su terreno como en sus máquinas en tiempo real y de esta manera poder anticipar los problemas comunes tales como que la máquina se queda sin gasolina, sin semillas etc....
+            >>  
  
  
 RODRIGO:   
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>   
+            >>   Google es una compañía principal subsidiaria de la multinacional estadounidense Alphabet Inc., cuya especialización son los productos y servicios relacionados con Internet, software, dispositivos electrónicos y otras tecnologías. Se encuentra en muchisimos sectores; comercio minorista, fabricación, servicios financieros, energía, administración publica, incluso en videojuegos.
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?   
-            >>  
+            >>  Google Cloud IoT, se enfoca mas en ser una plataforma en la nube pero realmente tiene espacio en todo tipo de modelos por ser una compañia tan grande como Google, incluso se podría decir que es mas una plataforma para servicios IoT, pero los servicios también fueron creados por Google.
     c) ¿Qué problemática o necesidad resuelve?   
-            >>   
+            >>   Como abarca varios sectores hay muchas problemácticas y necesidades que resuelve, pero juntando todo eso una manera simple de decir que hace Google Cloud IoT es que automatiza y simplifica actividades de la vida diaria. 
+            
+            Google. (n.d.). Google Cloud IoT: servicios de Internet de las cosas totalmente gestionados. Google Cloud IoT. Retrieved September 17, 2020, from https://cloud.google.com/solutions/iot?hl=es
             
 ![712x350xDesign-thinking jpg pagespeed ic_ _E8z6i6bLW](https://user-images.githubusercontent.com/71424870/93436299-38ca9100-f890-11ea-817c-a1e85b4b7c14.jpg)
 
