@@ -63,11 +63,11 @@ ARTURO:
  
 RODRIGO:   
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>   
+            >>   Google es una compañía principal subsidiaria de la multinacional estadounidense Alphabet Inc., cuya especialización son los productos y servicios relacionados con Internet, software, dispositivos electrónicos y otras tecnologías. Se encuentra en muchisimos sectores; comercio minorista, fabricación, servicios financieros, energía, administración publica, incluso en videojuegos.
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?   
-            >>  
+            >>  Google Cloud IoT, se enfoca mas en ser una plataforma en la nube pero realmente tiene espacio en todo tipo de modelos por ser una compañia tan grande como Google, incluso se podría decir que es mas una plataforma para servicios IoT, pero los servicios también fueron creados por Google.
     c) ¿Qué problemática o necesidad resuelve?   
-            >>   
+            >>   Como abarca varios sectores hay muchas problemácticas y necesidades que resuelve, pero juntando todo eso una manera simple de decir que hace Google Cloud IoT es que automatiza y simplifica actividades de la vida diaria.
             
 ![712x350xDesign-thinking jpg pagespeed ic_ _E8z6i6bLW](https://user-images.githubusercontent.com/71424870/93436299-38ca9100-f890-11ea-817c-a1e85b4b7c14.jpg)
 
