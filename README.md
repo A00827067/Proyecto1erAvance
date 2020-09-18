@@ -19,10 +19,6 @@ Rodrigo Díaz - A00828093
 
 [*PARTE III: Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iii)
 
-[*PARTE IV: Video del pretotipo de la app en funcionamiento y Párrafo explicativo*](https://github.com/A00827067/Proyecto1erAvance#parte-iv)
-
-[*PARTE V: Sensores.apka y Sensores.aia*](https://github.com/A00827067/Proyecto1erAvance#parte-v)
-
 # PARTE I  
     
 ## 1. Empresas identificadas individualmente con modelos probados con tecnología IoT:
@@ -131,23 +127,25 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   Ejemplo de código: 
   
   <code> # ¡Buen día, Prof. Sergio!   
-  <code> Feliz Semana Tec :) 
-    
-  <code>![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
+  <code> Feliz Semana Tec :)    
+  <code>![images](https://user-images.githubusercontent.com/fotoquequieras.png)
   
   
   Lo cuál muestra en README:
   
- ### ¡Buen día, Prof. Sergio!  
- ### Feliz Semana Tec :) 
+ # ¡Buen día, Prof. Sergio!  
  
- ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
+ 
+# PARTE IV
+
+
+  ## Video del pretotipo de la app en funcionamiento:
   
-  
-# PARTE IV  
+  [![Watch the video](https://img.youtube.com/vi/ADbNi1BtDRA/maxresdefault.jpg)](https://youtu.be/ADbNi1BtDRA)
   
   ## Párrafo explicativo :
-  >> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso 
+  
+>> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso 
 vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de tecnologías 
 para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las 
 problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de 
@@ -155,20 +153,30 @@ estas tecnologías para facilitar el manejo de cantidades masivas de recursos. E
 un sensor acelerómetro al fondo. Se sabe que las sustancias que se le deben agregar al agua para su uso son hipoclorito de sodio (NaClO), ácido hipocloroso (HClO) 
 y clorito de sodio (NaClO2), por lo que para potabilizar todo el cuerpo de agua se le deben agregar estos líquidos. Para monitorear las concentraciones y la 
 potabilización del agua, es posible mantener un control mediante un sensor acelerómetro situado en el fondo, que percibe las aceleraciones de las ondas de 
-movimiento que generan las sustancias al caer en el cuerpo de agua.  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los celulares inteligentes ya integrado. En la aplicación se puede observar la lectura de la aceleración de las ondas que percibe el sensor en las tres dimensiones, 
+movimiento que generan las sustancias al caer en el cuerpo de agua.  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los 
+celulares inteligentes ya integrado. En la aplicación se puede observar la lectura de la aceleración de las ondas que percibe el sensor en las tres dimensiones, 
 por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de 
 mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
 
-
-  ## Video del pretotipo de la app en funcionamiento:
-  
-  [![Watch the video](https://img.youtube.com/vi/ADbNi1BtDRA/maxresdefault.jpg)](https://youtu.be/ADbNi1BtDRA)
-
 # PARTE V
 
-[Sensores.apk](https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk)
 
-[Sensores.aia](https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia)
-  
-  
+[Sensores.apk]https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk
 
+[Sensores.aia]https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia
+  
+ Feliz Semana Tec :)  
+  
+ ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
+ 
+ # PARTE VI
+
+  Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub]
+
+      Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
+      historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente que se 
+      hizo en que version y que arreglaron para que la persona que vea la nueva version sepa que se hizo. Normalmente las personas que utilizan guthub no estan 
+      todas en un solo lugar y debido a esto se debe de tener muy en claro que es lo que se hace. Se conseja que utilices mucho el commit. Si tienes que arreglar 
+      un big grande dividirlo en varias partes y hacer commits seguidos ya que el trabajo se puede dividir y aparte si tienes alguna falla se puede poner una 
+      version anterior sin afectar tanto al programa. Se recomienda tener una guia de comandos para siempre estar actualizados y ver las diferentes formas de lo 
+      que se puede hacer en Guithub.
