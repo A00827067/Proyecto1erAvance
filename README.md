@@ -19,7 +19,7 @@ Rodrigo Díaz - A00828093
 
 [*PARTE III: Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iii)
 
-[*PARTE IV: Video del pretotipo de la app en funcionamiento y Párrafo Explicativo*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iv)
+[*PARTE IV: Video del prototipo de la app en funcionamiento y Párrafo Explicativo*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iv)
 
 [*PARTE V: Sensores.apk y Sensores.aia*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-v)
 
@@ -144,7 +144,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
 # PARTE IV
 
 
-  ## Video del pretotipo de la app en funcionamiento:
+  ## Video del prototipo de la app en funcionamiento:
   
   [![Watch the video](https://img.youtube.com/vi/ADbNi1BtDRA/maxresdefault.jpg)](https://youtu.be/ADbNi1BtDRA)
   
