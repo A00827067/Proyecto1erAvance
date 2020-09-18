@@ -163,6 +163,7 @@ celulares inteligentes ya integrado. En la aplicación se puede observar la lect
 por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de 
 mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
 
+Para tener agua potable 
 # PARTE V
 
 
