@@ -137,7 +137,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
  # ¡Buen día, Prof. Sergio! 
  # Feliz Semana Tec :) 
- [images](https://user-images.githubusercontent.com/fotoquequieras.png)
+ ! [images](https://user-images.githubusercontent.com/fotoquequieras.png)
  
  
 # PARTE IV
@@ -167,7 +167,7 @@ mayor escala y de distintas áreas, como en este caso, la medición de sustancia
 
 [Sensores.apk]https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk
 
-[Sensores.aia]https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia
+[Sensores.aia]https://github.com/A00827067/Proyecto1erAvance/blob/ff3726a315af0140399faf2f07d57760054dafd1/Sensores.aia
   
   
  # PARTE VI
