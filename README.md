@@ -1,7 +1,5 @@
 # Equipo 4 - El Chilaquil
 
-<div class="text-blue mb-2">
-  .text-blue on white </div>
 
 # Proyecto Herramientas Computacionales: 1er Reporte de Avances
 
@@ -13,7 +11,7 @@ Mariana Colchado - A00827256
 Arturo Rodríguez - A01197577  
 Rodrigo Díaz - A00828093  
   
-  # Contenidos: 
+  ### Contenidos: 
     
 [*PARTE I: Empresas con modelos probados con tecnología IoT*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-i)
 
