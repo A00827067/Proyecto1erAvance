@@ -10,14 +10,7 @@ Mariana Colchado - A00827256
 Arturo Rodríguez - A01197577  
 Rodrigo Díaz - A00828093  
     
-    
-    ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
-
+    [Parte I: Empresas con modelos probados con tecnología IoT ](https://www.google.com)
 
 # PARTE I  
     
