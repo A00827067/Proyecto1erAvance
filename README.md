@@ -126,14 +126,18 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   Ejemplo de código: 
   
-  <code> # ¡Buen día, Prof. Sergio!   
-  <code> Feliz Semana Tec :)    
+  <code> # ¡Buen día, Prof. Sergio!  
+  
+  <code> Feliz Semana Tec :)  
+  
   <code>![images](https://user-images.githubusercontent.com/fotoquequieras.png)
   
   
   Lo cuál muestra en README:
   
- # ¡Buen día, Prof. Sergio!  
+ # ¡Buen día, Prof. Sergio! 
+ # Feliz Semana Tec :) 
+ [images](https://user-images.githubusercontent.com/fotoquequieras.png)
  
  
 # PARTE IV
@@ -165,13 +169,10 @@ mayor escala y de distintas áreas, como en este caso, la medición de sustancia
 
 [Sensores.aia]https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia
   
- Feliz Semana Tec :)  
   
- ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
- 
  # PARTE VI
 
-  Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub]
+  ## Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub]
 
 <b> Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
 historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente que se   
