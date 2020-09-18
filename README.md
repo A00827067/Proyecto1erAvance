@@ -1,5 +1,4 @@
-```diff 
-+ Equipo 4 - El Chilaquil ```
+# Equipo 4 - El Chilaquil
 
 # Proyecto Herramientas Computacionales: 1er Reporte de Avances
 
