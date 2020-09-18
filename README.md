@@ -130,14 +130,14 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   <code> Feliz Semana Tec :)  
   
-  <code>![images](https://user-images.githubusercontent.com/fotoquequieras.png)
+  <code>[images](https://user-images.githubusercontent.com/fotoquequieras.png)
   
   
   Lo cuál muestra en README:
   
  # ¡Buen día, Prof. Sergio! 
  # Feliz Semana Tec :) 
- ! [images](https://user-images.githubusercontent.com/fotoquequieras.png)
+ [images](https://user-images.githubusercontent.com/fotoquequieras.png)
  
  
 # PARTE IV
