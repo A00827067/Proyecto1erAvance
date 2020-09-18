@@ -136,7 +136,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
  # ¡Buen día, Prof. Sergio!  
  
  
-# PARTE IIII
+# PARTE IV
 
 
   ## Video del pretotipo de la app en funcionamiento:
@@ -153,15 +153,17 @@ estas tecnologías para facilitar el manejo de cantidades masivas de recursos. E
 un sensor acelerómetro al fondo. Se sabe que las sustancias que se le deben agregar al agua para su uso son hipoclorito de sodio (NaClO), ácido hipocloroso (HClO) 
 y clorito de sodio (NaClO2), por lo que para potabilizar todo el cuerpo de agua se le deben agregar estos líquidos. Para monitorear las concentraciones y la 
 potabilización del agua, es posible mantener un control mediante un sensor acelerómetro situado en el fondo, que percibe las aceleraciones de las ondas de 
-movimiento que generan las sustancias al caer en el cuerpo de agua. 
-
-  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los 
+movimiento que generan las sustancias al caer en el cuerpo de agua.  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los 
 celulares inteligentes ya integrado. En la aplicación se puede observar la lectura de la aceleración de las ondas que percibe el sensor en las tres dimensiones, 
 por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de 
 mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
 
+# PARTE V
 
-  
+
+[Sensores.apk]https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk
+
+[Sensores.aia]https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia
   
  Feliz Semana Tec :)  
   
