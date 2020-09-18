@@ -43,11 +43,11 @@ DANIELA:
 
 MICHELLE:  
    a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>  La empresa es ScienceSoft es una empresa de consultoría de desarrollo de software y Tecnologías de la Información con sede en McKinney, Texas. La compañía cuenta con 27 años de experiencia y puntos de vista innovadores sobre diversas industrias, incluyendo banca, salud, retail y telecomunicaciones.
+            >>  ScienceSoft es una empresa de consultoría de desarrollo de software y Tecnologías de la Información con sede en McKinney, Texas. La compañía cuenta con 27 años de experiencia y puntos de vista innovadores sobre diversas industrias, incluyendo banca, salud, retail y telecomunicaciones.
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
-            >>  Consiste en una App que ayuda a una compañia farmaceutica a tranfosrmar los elementos quimicos visuales a su respectivo nombre de manera textual. .La empresa tiene, IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps),etc.
+            >>  Consiste en una App que ayuda a una compañía farmacéutica a transformar los elementos químicos visuales a su respectivo nombre de manera textual. La empresa tiene IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps), etc.
     c) ¿Qué problemática o necesidad resuelve?  
-            >>  Se necesitaba un desarrollo tecnológico que hiciera facil a todos identificar un elemento quimico y su nombre ,de manera que todos puedan determinar que elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera facíl. 
+            >>  Se necesitaba un desarrollo tecnológico que hiciera fácil para todos identificar un elemento químico y su nombre, de manera que todos puedan determinar qué elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera fácíl. 
             
     DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre
     del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies
