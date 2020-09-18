@@ -175,10 +175,9 @@ mayor escala y de distintas áreas, como en este caso, la medición de sustancia
 
   ## Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub]
 
-<b> Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
-historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente que se   
-hizo en que version y que arreglaron para que la persona que vea la nueva version sepa que se hizo. Normalmente las personas que utilizan guthub no estan 
-todas en un solo lugar y debido a esto se debe de tener muy en claro que es lo que se hace. Se conseja que utilices mucho el commit. Si tienes que arreglar 
-un big grande dividirlo en varias partes y hacer commits seguidos ya que el trabajo se puede dividir y aparte si tienes alguna falla se puede poner una 
-version anterior sin afectar tanto al programa. Se recomienda tener una guia de comandos para siempre estar actualizados y ver las diferentes formas de lo 
+<b> Como se sabe GitHub es un programa que mayoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
+historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente qué se   
+hizo en qué versión y qué se arregló para que la persona que vea la nueva versión sepa de las actualizaciones a detalle. Es usual que las personas que utilizan GitHub no estén 
+todas en un solo lugar geográfico como el mismo país, y debido a esto, se debe de tener un buen registro de todo lo que se modifica. Se aconseja la utilización del commit. Si tienes que arreglar un big grande,dividirlo en varias partes y hacer commits seguidos ya que el trabajo se puede dividir y aparte si tienes alguna falla se puede poner una 
+versión anterior sin afectar tanto al programa. Se recomienda tener una guía de comandos para siempre estar actualizados y ver las diferentes formas de lo 
 que se puede hacer en Guithub. <b/>
