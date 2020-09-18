@@ -12,7 +12,7 @@ Rodrigo Díaz - A00828093
     
 [*PARTE I: Empresas con modelos probados con tecnología IoT*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-i)
 
-[*PARTE II: Descripción del modelo de uso de IoT seleccionado colaborativamente *](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-ii)
+[*PARTE II: Descripción del modelo de uso de IoT seleccionado colaborativamente*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-ii)
 
 # PARTE I  
     
