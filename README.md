@@ -122,7 +122,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
 # PARTE III
   
  ## Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.  
-  >>  GitHub es una herramienta amigable para todo aquel que tenga conocimientos básicos sobre programación, siempre y cuando se invesitguen sus funciones y sus comandos para poder aprovecharlo al máximo. Primero que nada, se debe de crear una cuenta, la cuál servirá para identificarte y para crear tus propios sitios y colaborar en otros. Después, es necesario crear una página, lo cuál se consigue a partir de unos cuantos clicks. Después de inicializar la página creada, en settings eliges la privacidad de la página, y ahí tambien viene el link donde puedes ir viendo como queda la página que estás editando. Ahí mismo, se puede elegir el estilo predeterminado que se quiera. Abres el editor en la página de README.md, que es la que muestra toda la información que se va agregando en la opción de code. Para poder saltar de renglón, es necesario poner dos espacios al final de la oración que se desea dividir o frase a separar. Para poder agregar una foto se tiene que crear un nuevo issue, ahí aparece la opción de nombrarlo y describirlo, en la parte de a descripción se arrastra la imagen y se copia el link que se proporciona a continuación. Posteriormente, se coloca el link en el espacio deseado dentro de las líneas de código. Se da refresh a la página para poder ir observando los cambios en la otra pestaña donde está el producto final. Como fuentes de apoyo se puede acudir a YouTube y buscar videos sobre como utilizar la platforma. GitHub cuenta con un espacio donde los usuarios ingresan sus dudas y usuarios las responden, ahí existen cientos de tutoriales por expertos. Además, se pueden buscar blogs donde también discutan sobre como usar las distintas funciones de GitHub. 
+  >> GitHub es una herramienta amigable para todo aquel que tenga conocimientos básicos sobre programación, siempre y cuando se invesitguen sus funciones y sus comandos para poder aprovecharlo al máximo. Primero que nada, se debe de crear una cuenta, la cuál servirá para identificarte y para crear tus propios sitios y colaborar en otros. Después, es necesario crear una página, lo cuál se consigue a partir de unos cuantos clicks. Después de inicializar la página creada, en settings eliges la privacidad de la página, y ahí tambien viene el link donde puedes ir viendo como queda la página que estás editando. Ahí mismo, se puede elegir el estilo predeterminado que se quiera. Abres el editor en la página de README.md, que es la que muestra toda la información que se va agregando en la opción de code. Para poder saltar de renglón, es necesario poner dos espacios al final de la oración que se desea dividir o frase a separar. Para poder agregar una foto se tiene que crear un nuevo issue, ahí aparece la opción de nombrarlo y describirlo, en la parte de a descripción se arrastra la imagen y se copia el link que se proporciona a continuación. Posteriormente, se coloca el link en el espacio deseado dentro de las líneas de código. Se da refresh a la página para poder ir observando los cambios en la otra pestaña donde está el producto final. Como fuentes de apoyo se puede acudir a YouTube y buscar videos sobre como utilizar la platforma. GitHub cuenta con un espacio donde los usuarios ingresan sus dudas y usuarios las responden, ahí existen cientos de tutoriales por expertos. Además, se pueden buscar blogs donde también discutan sobre como usar las distintas funciones de GitHub. 
   
   Ejemplo de código: 
   
@@ -145,9 +145,9 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   ## Párrafo explicativo :
   
->> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso 
-vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de tecnologías 
-para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las 
+ >> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este 
+recurso vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de 
+tecnologías para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las 
 problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de 
 estas tecnologías para facilitar el manejo de cantidades masivas de recursos. En esta situación, se considera que se tiene un depósito de agua aún por tratar, con 
 un sensor acelerómetro al fondo. Se sabe que las sustancias que se le deben agregar al agua para su uso son hipoclorito de sodio (NaClO), ácido hipocloroso (HClO) 
@@ -173,10 +173,10 @@ mayor escala y de distintas áreas, como en este caso, la medición de sustancia
 
   Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub]
 
-      Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
-      historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente que se 
-      hizo en que version y que arreglaron para que la persona que vea la nueva version sepa que se hizo. Normalmente las personas que utilizan guthub no estan 
-      todas en un solo lugar y debido a esto se debe de tener muy en claro que es lo que se hace. Se conseja que utilices mucho el commit. Si tienes que arreglar 
-      un big grande dividirlo en varias partes y hacer commits seguidos ya que el trabajo se puede dividir y aparte si tienes alguna falla se puede poner una 
-      version anterior sin afectar tanto al programa. Se recomienda tener una guia de comandos para siempre estar actualizados y ver las diferentes formas de lo 
-      que se puede hacer en Guithub.
+ >> Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
+historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente que se   
+hizo en que version y que arreglaron para que la persona que vea la nueva version sepa que se hizo. Normalmente las personas que utilizan guthub no estan 
+todas en un solo lugar y debido a esto se debe de tener muy en claro que es lo que se hace. Se conseja que utilices mucho el commit. Si tienes que arreglar 
+un big grande dividirlo en varias partes y hacer commits seguidos ya que el trabajo se puede dividir y aparte si tienes alguna falla se puede poner una 
+version anterior sin afectar tanto al programa. Se recomienda tener una guia de comandos para siempre estar actualizados y ver las diferentes formas de lo 
+que se puede hacer en Guithub.
