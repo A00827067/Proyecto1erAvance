@@ -30,7 +30,7 @@ DANIELA:
      c) ¿Qué problemática o necesidad resuelve?    
            >> Provee apoyo a los trabajadores de la planta para poder predecir o prevenir algún error con los químicos, así como también facilita el proceso de revisión, se remueve lo manual y se vuelve parcialmente remoto. Brinda al cliente la calidad de agua que necesita, cumpliendo con los distintos requisitos de salubridad que se esperan que se cumplan.  
            
-           Desarrollo IoT dosificación por control remoto de componentes químicos. (2019, June 11). Retrieved September 17, 2020, from https://development.grupogaratu.com/plataforma-iot-control-remoto-dosificar-componentes-quimicos/
+    Desarrollo IoT dosificación por control remoto de componentes químicos. (2019, June 11). Retrieved September 17, 2020, from            https://development.grupogaratu.com/plataforma-iot-control-remoto-dosificar-componentes-quimicos/
 
 
 MICHELLE:  
@@ -41,7 +41,8 @@ MICHELLE:
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Se necesitaba un desarrollo tecnológico que hiciera facil a todos identificar un elemento quimico y su nombre ,de manera que todos puedan determinar que elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera facíl. 
             
-            DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies
+    DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre
+    del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies
 
 
 MARIANA:  
@@ -52,7 +53,8 @@ MARIANA:
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Atiende la problemática citadina de tener una baja calidad del aire. Esta iniciativa provee de monitoreo de la calidad del aire en las ciudades, importante para que el gobierno de las ciudades pueda tomar medidas al respecto. Si se toman medidas adecuadas, se podría evitar una multa por baja calidad del aire y redestinar ese dinero al sector salud, donde hay muchos afectados con enfermedades respiratorias o relacionadas a esto por la mala calidad de aire.
             
-    GSMA. (2018). Air Quality Monitoring Using IoT and Big Data. Recuperado de GSMA el 17 de septiembre del 2020 en https://www.gsma.com/iot/wp-content/uploads/2018/02/iot_clean_air_02_18.pdf
+    GSMA. (2018). Air Quality Monitoring Using IoT and Big Data. Recuperado de GSMA el 17 de septiembre del 2020 
+    en https://www.gsma.com/iot/wp-content/uploads/2018/02/iot_clean_air_02_18.pdf
             
  
 ARTURO:    
@@ -68,7 +70,7 @@ ARTURO:
             y de esta manera poder anticipar los problemas comunes tales como que la máquina se queda sin gasolina, sin semillas etc....
  
     Fearn, N. (2016, September 9). John Deere turns to IoT to make smart farming a reality. Internet of Business.
-     (https://internetofbusiness.com/john-deere-turns-iot-smart-farming/)
+    (https://internetofbusiness.com/john-deere-turns-iot-smart-farming/)
  
 RODRIGO:   
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
