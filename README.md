@@ -141,8 +141,26 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
 
   ## Video del pretotipo de la app en funcionamiento:
   
- >> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de tecnologías para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de estas tecnologías para facilitar el manejo de cantidades masivas de recursos. En esta situación, se considera que se tiene un depósito de agua aún por tratar, con un sensor acelerómetro al fondo. Se sabe que las sustancias que se le deben agregar al agua para su uso son hipoclorito de sodio (NaClO), ácido hipocloroso (HClO) y clorito de sodio (NaClO2), por lo que para potabilizar todo el cuerpo de agua se le deben agregar estos líquidos. Para monitorear las concentraciones y la potabilización del agua, es posible mantener un control mediante un sensor acelerómetro situado en el fondo, que percibe las aceleraciones de las ondas de movimiento que generan las sustancias al caer en el cuerpo de agua. 
-  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los celulares inteligentes ya integrado. En la aplicación se puede observar la lectura de la aceleración de las ondas que percibe el sensor en las tres dimensiones, por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
+  [![Watch the video](https://img.youtube.com/vi/ADbNi1BtDRA/maxresdefault.jpg)](https://youtu.be/ADbNi1BtDRA)
+  
+  ## Párrafo explicativo :
+  
+>> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso 
+vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de tecnologías 
+para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las 
+problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de 
+estas tecnologías para facilitar el manejo de cantidades masivas de recursos. En esta situación, se considera que se tiene un depósito de agua aún por tratar, con 
+un sensor acelerómetro al fondo. Se sabe que las sustancias que se le deben agregar al agua para su uso son hipoclorito de sodio (NaClO), ácido hipocloroso (HClO) 
+y clorito de sodio (NaClO2), por lo que para potabilizar todo el cuerpo de agua se le deben agregar estos líquidos. Para monitorear las concentraciones y la 
+potabilización del agua, es posible mantener un control mediante un sensor acelerómetro situado en el fondo, que percibe las aceleraciones de las ondas de 
+movimiento que generan las sustancias al caer en el cuerpo de agua. 
+
+  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los 
+celulares inteligentes ya integrado. En la aplicación se puede observar la lectura de la aceleración de las ondas que percibe el sensor en las tres dimensiones, 
+por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de 
+mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
+
+
   
   
  Feliz Semana Tec :)  
