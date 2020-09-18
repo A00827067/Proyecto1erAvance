@@ -132,7 +132,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   <code> # ¡Buen día, Prof. Sergio!   
   <code> Feliz Semana Tec :)    
-  <code> ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
+  <code>![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
   
   
   Lo cuál muestra en README:
@@ -141,6 +141,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
  # Feliz Semana Tec :) 
   ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
   
+  
 # PARTE IV
 
 
@@ -148,9 +149,9 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   [![Watch the video](https://img.youtube.com/vi/ADbNi1BtDRA/maxresdefault.jpg)](https://youtu.be/ADbNi1BtDRA)
   
-  ## Párrafo explicativo :
   
->> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso 
+  ## Párrafo explicativo :
+  >> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso 
 vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de tecnologías 
 para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las 
 problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de 
@@ -163,9 +164,7 @@ celulares inteligentes ya integrado. En la aplicación se puede observar la lect
 por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de 
 mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
 
-Para tener agua potable 
 # PARTE V
-
 
 [Sensores.apk](https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk)
 
