@@ -10,8 +10,8 @@ Mariana Colchado - A00827256
 Arturo Rodríguez - A01197577  
 Rodrigo Díaz - A00828093  
     
-[PARTE I: Empresas con modelos probados con tecnología IoT ](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-i)
-
+[*PARTE I: Empresas con modelos probados con tecnología IoT*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-i)
+[*PARTE 2: Descripción del modelo de uso de IoT seleccionado colaborativamente *] (https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-ii)
 # PARTE I  
     
 ## 1. Empresas identificadas individualmente con modelos probados con tecnología IoT:
