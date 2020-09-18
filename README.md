@@ -71,7 +71,7 @@ MARIANA:
 b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  Consiste en el uso de sensores pequeños, portátiles, de bajo costo, y manejables mediante dispositivos móviles que pueden medir y reportar la calidad del aire en tiempo real. También se pueden aplicar capacidades de "Big Data" como análisis y machine learning para relacionar datos y tener un mejor entendimiento de las dinámicas de la contaminación del aire y sus posibles causas. Esto, en comparación con los instrumentos que se utilizan en la actualidad para monitorear el aire, es de gran ventaja, porque lo que se utiliza actualmente son equipos pesados, difícilmente manejables y ubicados permanentemente en sitios específicos de las ciudades, y es difícil obtener un reporte en tiempo real y confiable.
    
-       c) ¿Qué problemática o necesidad resuelve?  
+    c) ¿Qué problemática o necesidad resuelve?  
             >>  Atiende la problemática citadina de tener una baja calidad del aire. Esta iniciativa provee de monitoreo de la calidad del aire en las ciudades, importante para que el gobierno de las ciudades pueda tomar medidas al respecto. Si se toman medidas adecuadas, se podría evitar una multa por baja calidad del aire y redestinar ese dinero al sector salud, donde hay muchos afectados con enfermedades respiratorias o relacionadas a esto por la mala calidad de aire.
             
     GSMA. (2018). Air Quality Monitoring Using IoT and Big Data. Recuperado de GSMA el 17 de septiembre del 2020 
