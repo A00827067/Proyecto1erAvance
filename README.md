@@ -143,6 +143,8 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   Video del pretotipo de la app en funcionamiento:
   
   Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este recurso vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de tecnologías para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de estas tecnologías para facilitar el manejo de cantidades masivas de recursos. En esta situación, se considera que se tiene un depósito de agua aún por tratar, con un sensor acelerómetro al fondo. Se sabe que las sustancias que se le debe agregar al agua para su uso , es posible mantener un control de estas sustancias que se vacían en el cuerpo de agua. Parece un proceso complicado, pero se logra con un sensor que tienes incluso en tu dispositivo móvil; a continuación podrás ver las aceleraciones que capta en los tres planos.
+  
+  
 
 
 
