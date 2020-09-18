@@ -1,7 +1,7 @@
 # Equipo 4 - El Chilaquil
 
-<div class="bg-blue-light mb-2">
-  .text-gray-dark on .bg-blue-light
+<div class="text-blue mb-2">
+  .text-blue on white
 </div>
 
 # Proyecto Herramientas Computacionales: 1er Reporte de Avances
