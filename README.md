@@ -19,11 +19,11 @@ Rodrigo Díaz - A00828093
 
 [*PARTE III: Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iii)
 
-[*PARTE IV: Video del pretotipo de la app en funcionamiento y Párrafo Explicativo*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-i)
+[*PARTE IV: Video del pretotipo de la app en funcionamiento y Párrafo Explicativo*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iv)
 
-[*PARTE V: Sensores.apk y Sensores.aia*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-ii)
+[*PARTE V: Sensores.apk y Sensores.aia*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-v)
 
-[*PARTE VI: Síntesis de buenas prácticas en la industria para el uso de git y commit*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iii)
+[*PARTE VI: Síntesis de buenas prácticas en la industria para el uso de git y commit*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-vi)
 
 
 # PARTE I  
