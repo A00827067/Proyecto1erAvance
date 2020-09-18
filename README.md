@@ -19,6 +19,10 @@ Rodrigo Díaz - A00828093
 
 [*PARTE III: Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iii)
 
+[*PARTE IV: Video del pretotipo de la app en funcionamiento y Párrafo explicativo*](https://github.com/A00827067/Proyecto1erAvance#parte-iv)
+
+[*PARTE V: Sensores.apka y Sensores.aia*](https://github.com/A00827067/Proyecto1erAvance#parte-v)
+
 # PARTE I  
     
 ## 1. Empresas identificadas individualmente con modelos probados con tecnología IoT:
@@ -128,14 +132,15 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   <code> # ¡Buen día, Prof. Sergio!   
   <code> Feliz Semana Tec :)    
-  <code>![images](https://user-images.githubusercontent.com/fotoquequieras.png)
+  <code> ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
   
   
   Lo cuál muestra en README:
   
  # ¡Buen día, Prof. Sergio!  
- 
- 
+ # Feliz Semana Tec :) 
+  ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
+  
 # PARTE IV
 
 
@@ -161,12 +166,9 @@ mayor escala y de distintas áreas, como en este caso, la medición de sustancia
 # PARTE V
 
 
-[Sensores.apk]https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk
+[Sensores.apk](https://github.com/A00827067/Proyecto1erAvance/blob/849aabb3dd0aeb7561c74fc3952960a39bd2bde9/Sensores.apk)
 
-[Sensores.aia]https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia
+[Sensores.aia](https://github.com/A00827067/Proyecto1erAvance/blob/master/Sensores.aia)
   
- Feliz Semana Tec :)  
   
- ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png) 
-
 
