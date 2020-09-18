@@ -77,6 +77,8 @@ RODRIGO:
     c) ¿Qué problemática o necesidad resuelve?   
             >>   Como abarca varios sectores hay muchas problemácticas y necesidades que resuelve, pero juntando todo eso una manera simple de decir que hace Google Cloud IoT es que automatiza y simplifica actividades de la vida diaria.
             
+    Google. (n.d.). Google Cloud IoT: servicios de Internet de las cosas totalmente gestionados. Google Cloud IoT. Retrieved September 17, 2020, from https://cloud.google.com/solutions/iot?hl=es
+            
 ![712x350xDesign-thinking jpg pagespeed ic_ _E8z6i6bLW](https://user-images.githubusercontent.com/71424870/93436299-38ca9100-f890-11ea-817c-a1e85b4b7c14.jpg)
 
 
