@@ -70,6 +70,7 @@ MARIANA:
 
 b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  Consiste en el uso de sensores pequeños, portátiles, de bajo costo, y manejables mediante dispositivos móviles que pueden medir y reportar la calidad del aire en tiempo real. También se pueden aplicar capacidades de "Big Data" como análisis y machine learning para relacionar datos y tener un mejor entendimiento de las dinámicas de la contaminación del aire y sus posibles causas. Esto, en comparación con los instrumentos que se utilizan en la actualidad para monitorear el aire, es de gran ventaja, porque lo que se utiliza actualmente son equipos pesados, difícilmente manejables y ubicados permanentemente en sitios específicos de las ciudades, y es difícil obtener un reporte en tiempo real y confiable.
+   
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Atiende la problemática citadina de tener una baja calidad del aire. Esta iniciativa provee de monitoreo de la calidad del aire en las ciudades, importante para que el gobierno de las ciudades pueda tomar medidas al respecto. Si se toman medidas adecuadas, se podría evitar una multa por baja calidad del aire y redestinar ese dinero al sector salud, donde hay muchos afectados con enfermedades respiratorias o relacionadas a esto por la mala calidad de aire.
             
@@ -78,14 +79,15 @@ b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la
             
  
 ARTURO:    
-    a) ¿Qué empresa es? ¿En qué sector se encuentra?   
+      a) ¿Qué empresa es? ¿En qué sector se encuentra?   
             >>   La empresa se llama Deere & Company pero se conoce comercialmente como John Deere. Esta empresa se encuentra en el sector agrícola.   
-            >>   Mayoritariamente se dedican a hacer tractores y equipo que faciliten el trabajo del campo desde la plantación hasta la extracción del fruto.
+               Mayoritariamente se dedican a hacer tractores y equipo que faciliten el trabajo del campo desde la plantación hasta la extracción del fruto.
             
-    b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
+      b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  La empresa de Deere & Company hizo una aplicación para iPad y con esta aplicación se puede ver desde cuánto campo se ha plantado, de qué semilla 
             se plantó, cuántas semillas le quedan al tractor, cuántas semillas se plantaron por hectárea y cuánto terreno le falta para acabar. 
-    c) ¿Qué problemática o necesidad resuelve?    
+    
+      c) ¿Qué problemática o necesidad resuelve?    
             >>  Esta app ayuda a que el granjero sepa qué es lo que está pasando tanto en su terreno como en sus máquinas en tiempo real 
             y de esta manera poder anticipar los problemas comunes tales como que la máquina se queda sin gasolina, sin semillas etc...
  
@@ -93,12 +95,18 @@ ARTURO:
     (https://internetofbusiness.com/john-deere-turns-iot-smart-farming/)
  
 RODRIGO:   
-    a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>   Google es una compañía principal subsidiaria de la multinacional estadounidense Alphabet Inc., cuya especialización son los productos y servicios relacionados con Internet, software, dispositivos electrónicos y otras tecnologías. Se encuentra en muchisimos sectores; comercio minorista, fabricación, servicios financieros, energía, administración publica, incluso en videojuegos.
-    b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?   
-            >>  Google Cloud IoT, se enfoca mas en ser una plataforma en la nube pero realmente tiene espacio en todo tipo de modelos por ser una compañia tan grande como Google, incluso se podría decir que es mas una plataforma para servicios IoT, pero los servicios también fueron creados por Google.
-    c) ¿Qué problemática o necesidad resuelve?   
-            >>   Como abarca varios sectores hay muchas problemácticas y necesidades que resuelve, pero juntando todo eso una manera simple de decir que hace Google Cloud IoT es que automatiza y simplifica actividades de la vida diaria.
+      a) ¿Qué empresa es? ¿En qué sector se encuentra?    
+            >>   Google es una compañía principal subsidiaria de la multinacional estadounidense Alphabet Inc., cuya especialización son los productos y servicios 
+                 relacionados con Internet, software, dispositivos electrónicos y otras tecnologías. Se encuentra en muchisimos sectores; comercio minorista, 
+                 fabricación, servicios financieros, energía, administración publica, incluso en videojuegos.
+    
+      b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?   
+            >>  Google Cloud IoT, se enfoca mas en ser una plataforma en la nube pero realmente tiene espacio en todo tipo de modelos por ser una compañia tan 
+                grande como Google, incluso se podría decir que es mas una plataforma para servicios IoT, pero los servicios también fueron creados por Google.
+      
+      c) ¿Qué problemática o necesidad resuelve?   
+            >>   Como abarca varios sectores hay muchas problemácticas y necesidades que resuelve, pero juntando todo eso una manera simple de decir que hace   
+                  Google Cloud IoT es que automatiza y simplifica actividades de la vida diaria.
             
     Google. (n.d.). Google Cloud IoT: servicios de Internet de las cosas totalmente gestionados. 
     Google Cloud IoT. Retrieved September 17, 2020, from https://cloud.google.com/solutions/iot?hl=es
