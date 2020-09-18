@@ -1,4 +1,5 @@
-# Equipo 4 - El Chilaquil
+```diff 
++ Equipo 4 - El Chilaquil ```
 
 # Proyecto Herramientas Computacionales: 1er Reporte de Avances
 
@@ -9,10 +10,14 @@ Michelle Martínez - A01570765
 Mariana Colchado - A00827256  
 Arturo Rodríguez - A01197577  
 Rodrigo Díaz - A00828093  
+  
+  # Contenidos: 
     
 [*PARTE I: Empresas con modelos probados con tecnología IoT*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-i)
 
 [*PARTE II: Descripción del modelo de uso de IoT seleccionado colaborativamente*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-ii)
+
+[*PARTE III: Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea*](https://github.com/A00827067/Proyecto1erAvance/blob/master/README.md#parte-iii)
 
 # PARTE I  
     
