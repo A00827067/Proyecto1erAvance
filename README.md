@@ -35,7 +35,8 @@ DANIELA:
            >> Su nombre es Grupo Garatu Development. Es una empresa orientada hacia la ingeniería química, más específicamente en la industria del agua.                
      b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?     
            >> Es un sistema que se controla por medio de una pantalla táctil, la cuál permite regular la cantidad de químicos que se liberan en los depósitos de agua debido a sensores dentro de ellos, para distintos fines que cumplen con diferentes objetivos fijados por el cliente. También, permite revisar los niveles de éstos químicos para poder alertar cuando suben o bajan del nivel especificado por el usuario.           
-     c) ¿Qué problemática o necesidad resuelve?    
+   
+   c) ¿Qué problemática o necesidad resuelve?    
            >> Provee apoyo a los trabajadores de la planta para poder predecir o prevenir algún error con los químicos, así como también facilita el proceso de revisión, se remueve lo manual y se vuelve parcialmente remoto. Brinda al cliente la calidad de agua que necesita, cumpliendo con los distintos requisitos de salubridad que se esperan que se cumplan.  
            
     Desarrollo IoT dosificación por control remoto de componentes químicos. (2019, June 11). 
@@ -44,11 +45,17 @@ DANIELA:
 
 MICHELLE:  
    a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>  ScienceSoft es una empresa de consultoría de desarrollo de software y Tecnologías de la Información con sede en McKinney, Texas. La compañía cuenta con 27 años de experiencia y puntos de vista innovadores sobre diversas industrias, incluyendo banca, salud, retail y telecomunicaciones.
+            >>  ScienceSoft es una empresa de consultoría de desarrollo de software y Tecnologías de la Información con sede en McKinney, Texas. La compañía cuenta
+            con 27 años de experiencia y puntos de vista innovadores sobre diversas industrias, incluyendo banca, salud, retail y telecomunicaciones.
+ 
    b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
-            >>  Consiste en una App que ayuda a una compañía farmacéutica a transformar los elementos químicos visuales a su respectivo nombre de manera textual. La empresa tiene IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps), etc.
+      >>  Consiste en una App que ayuda a una compañía farmacéutica a transformar los elementos químicos visuales a su respectivo nombre de manera textual. 
+      La empresa tiene IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps), etc.
+
    c) ¿Qué problemática o necesidad resuelve?  
-            >>  Se necesitaba un desarrollo tecnológico que hiciera fácil para todos identificar un elemento químico y su nombre, de manera que todos puedan determinar qué elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera fácíl. 
+           >>  Se necesitaba un desarrollo tecnológico que hiciera fácil para todos identificar un elemento químico y su nombre, de manera que todos puedan
+                determinar qué elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera 
+                fácíl. 
             
     DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre
     del 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies
@@ -56,8 +63,12 @@ MICHELLE:
 
 MARIANA:  
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>  La empresa se llama GSMA. Es una empresa en el sector de telecomunicaciones, pero para este proyecto está orientada a atender una de las grandes problemáticas originadas por el calentamiento global: la contaminación del aire. Gracias a esta colaboración de áreas separadas, se puede decir que el sector de este proyecto específico es desarrollo sustentable, pues mediante la ciencia y la tecnología se ciuda que las comodidades de las que gozamos actualmente sean lo menos dañinas para el medio ambiente. 
-    b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
+            >>  La empresa se llama GSMA. Es una empresa en el sector de telecomunicaciones, pero para este proyecto está orientada a atender una de las grandes
+            problemáticas originadas por el calentamiento global: la contaminación del aire. Gracias a esta colaboración de áreas separadas, se puede decir que el 
+            sector de este proyecto específico es desarrollo sustentable, pues mediante la ciencia y la tecnología se ciuda que las comodidades de las que gozamos 
+            actualmente sean lo menos dañinas para el medio ambiente. 
+
+b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  Consiste en el uso de sensores pequeños, portátiles, de bajo costo, y manejables mediante dispositivos móviles que pueden medir y reportar la calidad del aire en tiempo real. También se pueden aplicar capacidades de "Big Data" como análisis y machine learning para relacionar datos y tener un mejor entendimiento de las dinámicas de la contaminación del aire y sus posibles causas. Esto, en comparación con los instrumentos que se utilizan en la actualidad para monitorear el aire, es de gran ventaja, porque lo que se utiliza actualmente son equipos pesados, difícilmente manejables y ubicados permanentemente en sitios específicos de las ciudades, y es difícil obtener un reporte en tiempo real y confiable.
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Atiende la problemática citadina de tener una baja calidad del aire. Esta iniciativa provee de monitoreo de la calidad del aire en las ciudades, importante para que el gobierno de las ciudades pueda tomar medidas al respecto. Si se toman medidas adecuadas, se podría evitar una multa por baja calidad del aire y redestinar ese dinero al sector salud, donde hay muchos afectados con enfermedades respiratorias o relacionadas a esto por la mala calidad de aire.
