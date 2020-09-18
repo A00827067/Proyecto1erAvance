@@ -145,7 +145,7 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   ## Párrafo explicativo :
   
- >> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este 
+<b> Para tener agua potable en las ciudades es necesario cuidar de ciertas regulaciones; es decir, que el nivel de químicos y sustancias que contiene este 
 recurso vital esté controlado. En la actualidad, viviendo en un mundo globalizado cuyas ciudades toman cada vez más importancia en el rol del desarrollo de 
 tecnologías para el avance de la humanidad, es crucial contar con recursos que abastezcan a todos los ciudadanos satisfactoriamente. Sin embargo, para atender las 
 problemáticas que se generan por tener una población especialmente grande en la ciudad, se necesitan soluciones creativas e innovadoras, que involucren el uso de 
@@ -156,8 +156,8 @@ potabilización del agua, es posible mantener un control mediante un sensor acel
 movimiento que generan las sustancias al caer en el cuerpo de agua.  Considerando el escenario anterior nos fue posible hacer un prototipo de aplicación para dispositivos móviles, aprovechando el sensor acelerómetro que tienen los 
 celulares inteligentes ya integrado. En la aplicación se puede observar la lectura de la aceleración de las ondas que percibe el sensor en las tres dimensiones, 
 por lo que es una lectura muy completa, y por esto mismo da pie a su potencial utilidad para aplicar este tipo de tecnologías en la resolución de problemas de 
-mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable.
-
+mayor escala y de distintas áreas, como en este caso, la medición de sustancias químicas limpiadoras en el agua potable. <b/>
+  
 # PARTE V
 
 
@@ -173,10 +173,10 @@ mayor escala y de distintas áreas, como en este caso, la medición de sustancia
 
   Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub]
 
- >> Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
+<b> Como se sabe gut hub es un programa en el cual matoritariamente se utiliza para controlar las versiones de las aplicaciones y de esta manera tener un  
 historial en el cual se puede ver a detalle que se hizo. Para que esto pase se debe de tener una manera ordenada en la cual se describa claramente que se   
 hizo en que version y que arreglaron para que la persona que vea la nueva version sepa que se hizo. Normalmente las personas que utilizan guthub no estan 
 todas en un solo lugar y debido a esto se debe de tener muy en claro que es lo que se hace. Se conseja que utilices mucho el commit. Si tienes que arreglar 
 un big grande dividirlo en varias partes y hacer commits seguidos ya que el trabajo se puede dividir y aparte si tienes alguna falla se puede poner una 
 version anterior sin afectar tanto al programa. Se recomienda tener una guia de comandos para siempre estar actualizados y ver las diferentes formas de lo 
-que se puede hacer en Guithub.
+que se puede hacer en Guithub. <b/>
