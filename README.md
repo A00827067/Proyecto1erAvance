@@ -32,7 +32,8 @@ Rodrigo Díaz - A00828093
         
 DANIELA:      
      a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-           >> Su nombre es Grupo Garatu Development. Es una empresa orientada hacia la ingeniería química, más específicamente en la industria del agua.                b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?     
+           >> Su nombre es Grupo Garatu Development. Es una empresa orientada hacia la ingeniería química, más específicamente en la industria del agua.                
+     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?     
            >> Es un sistema que se controla por medio de una pantalla táctil, la cuál permite regular la cantidad de químicos que se liberan en los depósitos de agua debido a sensores dentro de ellos, para distintos fines que cumplen con diferentes objetivos fijados por el cliente. También, permite revisar los niveles de éstos químicos para poder alertar cuando suben o bajan del nivel especificado por el usuario.           
      c) ¿Qué problemática o necesidad resuelve?    
            >> Provee apoyo a los trabajadores de la planta para poder predecir o prevenir algún error con los químicos, así como también facilita el proceso de revisión, se remueve lo manual y se vuelve parcialmente remoto. Brinda al cliente la calidad de agua que necesita, cumpliendo con los distintos requisitos de salubridad que se esperan que se cumplan.  
@@ -44,9 +45,9 @@ DANIELA:
 MICHELLE:  
    a) ¿Qué empresa es? ¿En qué sector se encuentra?    
             >>  ScienceSoft es una empresa de consultoría de desarrollo de software y Tecnologías de la Información con sede en McKinney, Texas. La compañía cuenta con 27 años de experiencia y puntos de vista innovadores sobre diversas industrias, incluyendo banca, salud, retail y telecomunicaciones.
-    b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
+   b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  Consiste en una App que ayuda a una compañía farmacéutica a transformar los elementos químicos visuales a su respectivo nombre de manera textual. La empresa tiene IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps), etc.
-    c) ¿Qué problemática o necesidad resuelve?  
+   c) ¿Qué problemática o necesidad resuelve?  
             >>  Se necesitaba un desarrollo tecnológico que hiciera fácil para todos identificar un elemento químico y su nombre, de manera que todos puedan determinar qué elemento estarán utilizando. Esto hace que personas sin conocimiento avanzado de química puedan aprender e investigar de manera fácíl. 
             
     DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado 17 de Septiembre
@@ -70,10 +71,10 @@ ARTURO:
             >>   La empresa se llama Deere & Company pero se conoce comercialmente como John Deere. Esta empresa se encuentra en el sector agrícola.   
             >>   Mayoritariamente se dedican a hacer tractores y equipo que faciliten el trabajo del campo desde la plantación hasta la extracción del fruto.
             
-   b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
+    b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  La empresa de Deere & Company hizo una aplicación para iPad y con esta aplicación se puede ver desde cuánto campo se ha plantado, de qué semilla 
             se plantó, cuántas semillas le quedan al tractor, cuántas semillas se plantaron por hectárea y cuánto terreno le falta para acabar. 
-  c) ¿Qué problemática o necesidad resuelve?    
+    c) ¿Qué problemática o necesidad resuelve?    
             >>  Esta app ayuda a que el granjero sepa qué es lo que está pasando tanto en su terreno como en sus máquinas en tiempo real 
             y de esta manera poder anticipar los problemas comunes tales como que la máquina se queda sin gasolina, sin semillas etc...
  
